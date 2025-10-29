@@ -1,3 +1,7 @@
+# IMPORTANT NOTICE
+
+Coming soon python library level support.
+
 # Social Media Compression Emulation Framework
 
 This framework provides a two-phase system to improve deepfake's detectors performance when tested on video shared on social networks, by emulating social network's re-compression and resizing artifacts.
